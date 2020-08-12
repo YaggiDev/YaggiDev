@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, im YaggiDev ! 👋
+Graduate of Informatics and Econometrics with bachelor's degree. Currently student on masters degree. Coding is part of everyday life.
+
 
 <!--
 **YaggiDev/YaggiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
