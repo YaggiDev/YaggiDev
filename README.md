@@ -1,5 +1,5 @@
 ### Hi there, im YaggiDev ! 👋
-Graduate of Informatics and Econometrics with bachelor's degree. Currently student on masters degree. Coding is part of everyday life.
+Graduate of Informatics and Econometrics with bachelor's degree. Currently student on masters degree, who'd love to prosper and work in data science sector. Coding is part of everyday life.
 In free time i like to:
 - explore data mining techniques and try'em out
 - study various machine learning topics
