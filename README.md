@@ -6,7 +6,6 @@ In free time i like to:
 - write some simple bash scripts to make life easier :)
 - and outside intellectual pursuits i like to ride a bike or play the piano and guitar
 
-Currently working on python project that is about prediticting if the client will subscribe term deposit.
 
 <!--
 **YaggiDev/YaggiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
